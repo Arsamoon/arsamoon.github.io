@@ -176,7 +176,6 @@
 .u-section-2 .u-image-1 {
   width: auto;
   height: auto;
-  margin: 0 auto;
 }
 
 @media (max-width: 1199px) {
@@ -206,8 +205,8 @@
   }
 
   .u-section-2 .u-image-1 {
-    width: 1035px;
-    height: 282px;
+    width: auto;
+    height: auto;
   }
 }
 
@@ -243,9 +242,7 @@
   }
 
   .u-section-2 .u-image-1 {
-    height: 224px;
-    margin-right: initial;
-    margin-left: initial;
+    height: auto;
     width: auto;
   }
 }
